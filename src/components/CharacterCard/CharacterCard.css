@@ -1,0 +1,17 @@
+.imageContainer {
+     width: 400px;
+}
+
+.imageContainer img {
+     width: 100%;
+     cursor: pointer;
+}
+
+span {
+     color: aqua;
+     font-weight: bold;
+}
+
+h2 {
+     color: aqua;
+}
